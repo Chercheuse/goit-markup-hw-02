@@ -74,7 +74,8 @@ body {
 }
 
 .feature-title,
-.team-title {
+.team-title,
+.portfolio-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -83,7 +84,8 @@ body {
 }
 
 .feature-desc,
-.team-desc {
+.team-desc,
+.portfolio-desc {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -105,4 +107,14 @@ body {
 
 .team-card {
   background-color: #ffffff;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-appeal {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
